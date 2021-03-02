@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebelNeeto", "RebelNeeto\RebelNeeto.csproj", "{54FBDDFD-DA72-4C19-8497-A85013F76606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FBDDFD-DA72-4C19-8497-A85013F76606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FBDDFD-DA72-4C19-8497-A85013F76606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FBDDFD-DA72-4C19-8497-A85013F76606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FBDDFD-DA72-4C19-8497-A85013F76606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCBFD20-F3D0-4E5C-B0BC-AA0BD9F2C382}
+	EndGlobalSection
+EndGlobal
